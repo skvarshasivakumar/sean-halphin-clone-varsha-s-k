@@ -1,0 +1,36 @@
+body{
+  background-color:#BAFFB4;
+}
+.varsha{
+  color:red;
+  font-family: 'Sacramento', cursive;
+  font-weight: bolder;
+  font-size: 625%;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+.optimistic{
+  text-align: center;
+  color:red;
+}
+
+.cloudone{
+  margin-top: 20px;
+  position: absolute;
+  right:300px;
+}
+.cloudtwo{
+  position: relative;
+  left:300px;
+}
+.mount{
+  position: absolute;
+  left:350px;
+}
+.hello{
+  text-decoration: none;
+  color:pink;
+  font-family: cursive;
+  font-size: 50px;
+}
